@@ -34,8 +34,8 @@ This project is a Power BI-based interactive dashboard designed to analyze and f
 ---
 
 ## 📷 Dashboard Preview
+<img width="1240" height="701" alt="Screenshot 2025-08-05 215248" src="https://github.com/user-attachments/assets/9a4b52e8-4f61-4e6d-a13c-aa0beabf248d" />
 
-<img width="1246" height="701" alt="Screenshot 2025-08-05 212609" src="https://github.com/user-attachments/assets/0755acda-dddf-4021-8abc-c77410c8e3b8" />
 
 
 ---
