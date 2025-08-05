@@ -26,9 +26,9 @@ This project is a Power BI-based interactive dashboard designed to analyze and f
 
 ## 📁 Folder Structure
 
-- `Assets/` – Contains screenshots of the dashboard for preview.
-- `Reports/` – `.pbix` file for Power BI report (if you're allowed to share).
-- `Data/` – Cleaned or sample dataset (CSV format).
+- `Dashboard Screenshots/` – Contains screenshots of the dashboard for preview.
+- `Power BI Dashboard/` – `.pbix` file for Power BI report (if you're allowed to share).
+- `Dataset/` – Cleaned or sample dataset (CSV format).
 - `README.md` – Project documentation and explanation.
 
 ---
